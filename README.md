@@ -1,0 +1,2 @@
+# AntiGayPhone
+Crash iOS/macOS
